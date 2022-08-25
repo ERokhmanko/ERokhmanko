@@ -12,6 +12,10 @@
 
 Сейчас я в поиске проектов и готова к сотрудничеству 🤝
 
+## Контакты:
+📧  ERokhmanko@yandex.ru <br>
+📱 https://t.me/ERokhmanko
+
 
 ## 💻 Мои проекты:
 ✅[Дипломный проект](https://github.com/ERokhmanko/Diploma) <br>
@@ -44,6 +48,4 @@
 📄 [Основы Java](https://drive.google.com/file/d/1iTAwc8g6_s4jm0V8wAPyyhPjg35g1993/view?usp=sharing) 
 
 
-## Контакты:
-📧  ERokhmanko@yandex.ru <br>
-📱 https://t.me/ERokhmanko
+
