@@ -33,6 +33,10 @@
 **Задача**: <br>Создание приложения для прослушивания музыкального альбома, загруженного по сети.<br>
 **Инструменты**: <br>Kotlin, MVVM, RecyclerView, Retrofit, MediaPlayer
 
+✅  [JetpackComposePlayer](https://github.com/ERokhmanko/JetpackComposePlayer)<br>
+**Задача**: <br>Сменить написание вэб-интерфейса с XML на Jetpack Compose в проектe Player.<br>
+**Инструменты**: <br>Kotlin, JetpackCompose, MVVM, Retrofit, MediaPlayer
+
 ✅[Custom View & Animations](https://github.com/ERokhmanko/Custom-View-Animations-)<br>
 **Задача**: <br>Создание Custom View в виде окружности, которая принимает на вход данные, рассчитывает проценты и окрашивает View различными цветами, в зависимости от входных данных. Анимирование Custom View.<br>
 **Инструменты**:<br> Kotlin, RecyclerView, Canvas, Animator.
